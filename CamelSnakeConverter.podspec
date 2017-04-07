@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CamelSnakeConverter"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "String extension which can be converted to Camel case or Snake case."
 
   # This description is used to generate tags and improve search results.
@@ -76,7 +76,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/bloodysnowx/CamelSnakeConverter.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/m3dev/CamelSnakeConverter.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
